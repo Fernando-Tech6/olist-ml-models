@@ -3,3 +3,4 @@ delta/*
 src/etl/metastore_db/*
 src/etl/derby.log
 src/silver.db
+src/etl/.ipynb_checkpoints
