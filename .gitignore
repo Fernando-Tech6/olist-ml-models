@@ -1,0 +1,5 @@
+db/*
+delta/*
+src/etl/metastore_db/*
+src/etl/derby.log
+src/silver.db
